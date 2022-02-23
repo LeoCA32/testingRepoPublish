@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f0f9830.chunk.css",
+    "main.js": "/static/js/main.00a93ba2.chunk.js",
+    "main.js.map": "/static/js/main.00a93ba2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.70091e6f.js",
+    "runtime~main.js.map": "/static/js/runtime~main.70091e6f.js.map",
+    "static/js/2.562949af.chunk.js": "/static/js/2.562949af.chunk.js",
+    "static/js/2.562949af.chunk.js.map": "/static/js/2.562949af.chunk.js.map",
+    "static/js/3.06a4cbf0.chunk.js": "/static/js/3.06a4cbf0.chunk.js",
+    "static/js/3.06a4cbf0.chunk.js.map": "/static/js/3.06a4cbf0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.79a2695bef3595a36c969e9d66a763e9.js": "/precache-manifest.79a2695bef3595a36c969e9d66a763e9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8f0f9830.chunk.css.map": "/static/css/main.8f0f9830.chunk.css.map",
+    "static/media/appstore.svg": "/static/media/appstore.217c8993.svg",
+    "static/media/google.svg": "/static/media/google.72412bc9.svg"
+  }
+}

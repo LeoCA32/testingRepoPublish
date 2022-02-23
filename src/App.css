@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: #e7ddee;
+  height: 100vh;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.Route{
+  display: flex;
+  flex-flow: column;
+  height:100%;
+  width:100%;
+}
+
+.container{
+  vertical-align: middle;
+}
